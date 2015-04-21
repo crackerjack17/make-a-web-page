@@ -1,0 +1,53 @@
+/*This is to practive putting in a css comment */
+/*The coding below is from Lesson 1.3 */
+*{ 
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+element.style {display: flex;
+}
+body {
+	padding: 20px;
+	font-family: cursive;
+}
+/*Found color codes at html-color-codes.info */
+h1 {
+		text-align: center;
+		color: #006400;
+}
+h2 {
+		text-align: center;
+		color: #006400;
+}
+.lesson {
+    background-color: #DEB887;
+    border-radius: 20px;
+    color: #008000;
+    padding: 10px;
+}
+.image {
+	background-color: #FFFFE0;
+	border-radius: 10px;
+	color: 3CB371;
+	padding: 4px;
+}
+.concept {
+    background-color: #FFFFE0;
+    padding: 4px;
+    margin: 20px;
+    border-radius: 4px;
+    color: 006400;
+}
+.concept-title {
+    font-size: 25px;
+    text-align: center;
+    color: #006400;
+    background-color: #FFFFE0;
+    padding: 10px;
+}
+.concept-descriptions-lesson-1 {
+	font-weight: lighter;
+	border-radius: 10px;
+	
+}
